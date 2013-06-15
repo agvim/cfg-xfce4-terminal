@@ -1,9 +1,9 @@
-# xfce4-terminal-cfg: The default xfce4-terminal configuration
+# cfg-xfce4-terminal: The default xfce4-terminal configuration
 
 This is a homeshick configuration repository. See
 https://github.com/andsens/homeshick
 
-Configuration consists of
+Configuration consists in
 
 In Edit -> Preferences... -> Colours,
 sets them as the approximate value (right value is the correct solarized value,
