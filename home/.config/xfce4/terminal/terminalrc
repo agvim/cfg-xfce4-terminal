@@ -1,5 +1,5 @@
 [Configuration]
-FontName=Liberation Mono 10
+FontName=Inconsolata Medium 12
 MiscAlwaysShowTabs=FALSE
 MiscBell=FALSE
 MiscBordersDefault=TRUE
@@ -18,7 +18,7 @@ MiscTabPosition=GTK_POS_TOP
 MiscHighlightUrls=TRUE
 MiscScrollAlternateScreen=TRUE
 ColorForeground=#808080808080
-ColorCursor=#8a8a8a8a8a8a
+ColorCursor=#808080808080
 ColorBackground=#1c1c1c1c1c1c
-TabActivityColor=#afaf00000000
+TabActivityColor=#d7d700000000
 
