@@ -17,8 +17,10 @@ MiscTabCloseMiddleClick=TRUE
 MiscTabPosition=GTK_POS_TOP
 MiscHighlightUrls=TRUE
 MiscScrollAlternateScreen=TRUE
-ColorForeground=#808080808080
-ColorCursor=#808080808080
-ColorBackground=#1c1c1c1c1c1c
-TabActivityColor=#d7d700000000
+ColorForeground=#838394949696
+ColorCursor=#9393a1a1a1a1
+ColorBackground=#00002b2b3636
+TabActivityColor=#dcdc32322f2f
+ColorBoldUseDefault=FALSE
+ColorBold=#9393a1a1a1a1
 
