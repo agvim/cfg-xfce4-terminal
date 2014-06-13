@@ -23,5 +23,5 @@ ColorBackground=#00002b2b3636
 TabActivityColor=#dcdc32322f2f
 ColorBoldUseDefault=FALSE
 ColorBold=#9393a1a1a1a1
-ColorPalette=#00002b2b3636;#dcdc32322f2f;#858599990000;#cbcb4b4b1616;#26268b8bd2d2;#d3d336368282;#2a2aa1a19898;#aaaaaaaaaaaa;#555555555555;#ffff55555555;#5555ffff5555;#ffffffff5555;#55555555ffff;#ffff5555ffff;#5555ffffffff;#ffffffffffff
+ColorPalette=#00002b2b3636;#dcdc32322f2f;#858599990000;#cbcb4b4b1616;#26268b8bd2d2;#d3d336368282;#2a2aa1a19898;#aaaaaaaaaaaa;#555555555555;#ffff55555555;#5555ffff5555;#b5b589890000;#55555555ffff;#ffff5555ffff;#5555ffffffff;#fdfdf6f6e3e3
 
