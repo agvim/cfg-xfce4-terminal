@@ -1,7 +1,7 @@
 # cfg-xfce4-terminal: The default xfce4-terminal configuration
 
 This is a homeshick configuration repository. See
-https://github.com/andsens/homeshick
+https://github.com/agvim/homeshick
 
 Configuration consists in
 
